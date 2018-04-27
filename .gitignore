@@ -41,6 +41,5 @@ tests/_support/_generated/
 _ide_helper.php
 
 # Cpanel stuff
-public/.htaccess
 public/php.ini
 public/.user.ini
